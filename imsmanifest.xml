@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6knVfjVxLAB_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Deconstructing a book</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Deconstructing_a_book_ORG">
+    <organization identifier="Deconstructing_a_book_ORG">
+      <title>Deconstructing a book</title>
+      <item identifier="Deconstructing_a_book_SCO" isvisible="true" identifierref="__6knVfjVxLAB_course_id_RES">
+        <title>Deconstructing a book</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6knVfjVxLAB_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6QJue9r8t0X_80_DX514_DY514_CX347_CY539.jpg" />
+      <file href="mobile/6hqB3bCHcMN_80_DX514_DY514_CX354_CY538.jpg" />
+      <file href="mobile/6fgEdyQ1RCu_80_DX514_DY514_CX375_CY539.jpg" />
+      <file href="mobile/5mNnZEDtj00_80_P_0_294_918_508_DX562_DY562_CX589_CY326.png" />
+      <file href="mobile/6Mxoty4nuax_80_DX626_DY626_CX434_CY655.jpg" />
+      <file href="mobile/5hS2Qtlm8ME_80_DX456_DY456_CX477_CY157.jpg" />
+      <file href="mobile/5fB94lo5cHl_80_DX342_DY342_CX263_CY44.jpg" />
+      <file href="mobile/6WoZaFJhYEH_80_DX698_DY698_CX670_CY542.jpg" />
+      <file href="mobile/5nIdsY857pt_80_P_0_0_286_353_DX924_DY924_CX286_CY354.png" />
+      <file href="mobile/5YF5KFKgN7U_80_DX736_DY736_CX465_CY689.jpg" />
+      <file href="mobile/60jH0eUFBuj_80_DX742_DY742_CX778_CY540.jpg" />
+      <file href="mobile/5pU9yomAYe9_80_DX596_DY596_CX348_CY508.jpg" />
+      <file href="mobile/5zlDnvlKEBi_80_DX654_DY654_CX685_CY610.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5qOFpfwV5AA.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aPLTgY1oaJ.js" />
+      <file href="html5/data/js/5oqkMZN1i8S.js" />
+      <file href="html5/data/js/6abhs1s9W5h.js" />
+      <file href="html5/data/js/6eNcyzZsk0o.js" />
+      <file href="html5/data/js/6LPFe0zBGFv.js" />
+      <file href="html5/data/js/6PFdnHG0Qqt.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
